@@ -106,9 +106,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Acknowledgements
 
 This project is based on concepts and explanations from the YouTube channel **<Data with Baraa>**  
-by **<Baraa Khatib Salkini>**.
+by Baraa Khatib Salkini.
 
-- Video: <SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project>
+- Video: SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project
 - Link: <https://youtu.be/9GVqKuTVANE?si=QT38A4QyLEsIM8or>
 
 
